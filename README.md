@@ -1,2 +1,2 @@
 # hello-world
-practice
+I am learning how to use Git for fandom Dating Sims
